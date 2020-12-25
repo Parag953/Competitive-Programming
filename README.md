@@ -1,96 +1,96 @@
 # Competitive-Programming
 
--**Basic Geometry/Euclidean Geometry/ordinate Geometry/[3-D** variants **of everything].**
+-**Basic Geometry/Euclidean Geometry/ordinate G- [ ] eometry/[3-D** variants **of every- [ ] thing].**
 
-1. **Computational Geometry.**
+- [ ] 1. **Computational Geometry.**
 
-Graham Scan algorithm for Convex Hull O(n \* log(n)).
+- [ ] Graham Scan algorithm for Convex Hull O(n \* log(n)).
 
-  1. Online construction of 3-D convex hull in O(n^2).
-  2. Bentley Ottmann algorithm to list all intersection points of n line segments in O((n + I) \* logn).
+  - [ ] 1. Online construction of 3-D convex hull in O(n^2).
+  - [ ] 2. Bentley Ottmann algorithm to list all intersection points of n line segments in O((n + I) \* logn).
     - Suggested Reading -
-      1. [http://softsurfer.com/Archive/algorithm\_0108/algorithm\_0108.htm](http://softsurfer.com/Archive/algorithm_0108/algorithm_0108.htm)
-  3. Rotating Calipers Technique.
+      - [ ] 1. [http://softsurfer.com/Archive/algorithm\_0108/algorithm\_0108.htm](http://softsurfer.com/Archive/algorithm_0108/algorithm_0108.htm)
+  - [ ] 3. Rotating Calipers Technique.
     - Suggested Reading - [http://cgm.cs.mcgill.ca/~orm/rotcal.html](http://cgm.cs.mcgill.ca/~orm/rotcal.html)
     - Problems - Refer the article for a list of problems which can be solved using Rotating Calipers technique.
-  4. Line Sweep/Plane Sweep algorithms -
+  - [ ] 4. Line Sweep/Plane Sweep algorithms -
     - Area/Perimeter of Union of Rectangles.
     - Closest pair of points.
     - Suggested Reading -
-      1. [http://www.topcoder.com/tc?module=Static&amp;d1=tutorials&amp;d2=lineSweep](http://www.topcoder.com/tc?module=Static&amp;d1=tutorials&amp;d2=lineSweep)
+      - [ ] 1. [http://www.topcoder.com/tc?module=Static&amp;d1=tutorials&amp;d2=lineSweep](http://www.topcoder.com/tc?module=Static&amp;d1=tutorials&amp;d2=lineSweep)
     - Problems - Follow the tutorial for list of problems.
-  5. Area of Union of Circles.
-  6. Delaunay Triangulation of n points in O(n \* logn).
-  7. Voronoi Diagrams of n points in O(n \* logn) using Fortune&#39;s algorithm.
-  8. Point in a polygon problem -
+  - [ ] 5. Area of Union of Circles.
+  - [ ] 6. Delaunay Triangulation of n points in O(n \* logn).
+  - [ ] 7. Voronoi Diagrams of n points in O(n \* logn) using Fortune&#39;s algorithm.
+  - [ ] 8. Point in a polygon problem -
     - O(n) solution without preprocessing.
     - O(logn) algorithm with O(n \* logn) preprocessing for convex polygons.
-  9. Problems on computational geometry -
+  - [ ] 9. Problems on computational geometry -
     - [BSHEEP](http://www.spoj.pl/problems/BSHEEP), [BULK](http://www.spoj.pl/problems/BULK), [SEGVIS](http://www.spoj.pl/problems/SEGVIS), [CONDUIT](http://www.spoj.pl/problems/CONDUIT), [RUNAWAY](http://www.spoj.pl/problems/RUNAWAY), [DIRVS](http://www.spoj.pl/problems/DIRVS), [RAIN1](http://www.spoj.pl/problems/RAIN1), [SHAMAN](http://www.spoj.pl/problems/SHAMAN), [TCUTTER](http://www.spoj.pl/problems/TCUTTER), [LITEPIPE](http://www.spoj.pl/problems/LITEPIPE), [RHOMBS](http://www.spoj.pl/problems/RHOMBS), [FSHEEP](http://www.spoj.pl/problems/FSHEEP), [FLBRKLIN](http://www.spoj.pl/problems/FLBRKLIN), [CERC07P](http://www.spoj.pl/problems/CERC07P), [BAC](http://www.spoj.pl/problems/BAC), [ALTARS](http://www.spoj.pl/problems/ALTARS), [CERC07C](http://www.spoj.pl/problems/CERC07C), [NECKLACE](http://www.spoj.pl/problems/NECKLACE), [CH3D](http://www.spoj.pl/problems/CH3D), [RECTANGL](http://www.spoj.pl/problems/RECTANGL), [POLYSSQ](http://www.spoj.pl/problems/POLYSSQ), [FOREST2](http://www.spoj.pl/problems/FOREST2), [KPPOLY](http://www.spoj.pl/problems/KPPOLY), [RAIN2](http://www.spoj.pl/problems/RAIN2), [SEGMENTS](http://www.spoj.pl/problems/SEGMENTS), [ARCHPLG](http://www.spoj.pl/problems/ARCHPLG), [BALLOON](http://www.spoj.pl/problems/BALLOON), [CIRCLES](http://www.spoj.pl/problems/CIRCLES), [COMPASS](http://www.spoj.pl/problems/COMPASS), [EOWAMRT](http://www.spoj.pl/problems/EOWAMRT), [ICERINK](http://www.spoj.pl/problems/ICERINK) on SPOJ.
     - [CultureGrowth](http://www.topcoder.com/stat?c=problem_statement&amp;pm=3996), [PolygonCover](http://www.topcoder.com/stat?c=problem_statement&amp;pm=8540) on Topcoder.
-  10. Suggested Reading -
+  - [ ] 10. Suggested Reading -
     - Computational Geometry: Algorithms and applications. Mark De Burg.
 
 To be Done till 6th may.
 
-- **String Algorithm**.
-  1. **KnuthMorrisPratt** algorithm **.**
-    1. Problems - NHAY, PERIOD on SPOJ.
-    2. Suggested Reading -
-      1. Cormen chapter on Strings.
-      2. [http://www.topcoder.com/tc?module=Static&amp;d1=tutorials&amp;d2=stringSearching](http://www.topcoder.com/tc?module=Static&amp;d1=tutorials&amp;d2=stringSearching)
-  2. Aho Corasick algorithm.
+ - [ ] **String Algorithm**.
+  - [ ] 1. **KnuthMorrisPratt** algorithm **.**
+    - [ ] 1. Problems - NHAY, PERIOD on SPOJ.
+    - [ ] 2. Suggested Reading -
+      - [ ] 1. Cormen chapter on Strings.
+      - [ ] 2. [http://www.topcoder.com/tc?module=Static&amp;d1=tutorials&amp;d2=stringSearching](http://www.topcoder.com/tc?module=Static&amp;d1=tutorials&amp;d2=stringSearching)
+  - [ ] 2. Aho Corasick algorithm.
 
-1. Problems - WPUZZLES on SPOJ.
-  1. Suffix Arrays
+- [ ] 1. Problems - WPUZZLES on SPOJ.
+  - [ ] 1. Suffix Arrays
     - O(n^2 \* logn) Naive method of suffix array construction
     - O(n \* logn^2) method of suffix array construction
     - O(n \* log n) method of suffix array construction.
     - **O(n)** method of suffix array construction
     - O(n) LCA preprocess on Suffix Arrays to solve a variety of string problems.
-  2. Suffix Trees
+  - [ ] 2. Suffix Trees
     - O(n) construction of Suffix trees using Ukkonon&#39;s algorithm.
     - O(n) construction of Suffix Trees if provided with Suffix Arrays using Farach&#39;s algorithm.
-  3. Suffix Automata
+  - [ ] 3. Suffix Automata
     - O(n) Suffix Automaton construction.
-  4. Dictionary Of Basic Factors
+  - [ ] 4. Dictionary Of Basic Factors
     - O(n \* log n) method of DBF construction using Radix Sort.
-  5. **Manach**** e ****r&#39;s algorithm** to find length of palindromic substring of a string centered at a position for each position in the string. Runtime -\&gt; O(n).
-  6. Searching and preprocessing Regular Expressions consisting of &#39;?&#39;, &#39;\*&#39;.
-  7. Multi-dimensional pattern matching.
-  8. Problems on Strings [can be solved with a variety of techniques] -
+  - [ ] 5. **Manach**** e ****r&#39;s algorithm** to find length of palindromic substring of a string centered at a position for each position in the string. Runtime -\&gt; O(n).
+  - [ ] 6. Searching and preprocessing Regular Expressions consisting of &#39;?&#39;, &#39;\*&#39;.
+  - [ ] 7. Multi-dimensional pattern matching.
+  - [ ] 8. Problems on Strings [can be solved with a variety of techniques] -
     - [DISUBSTR](http://www.spoj.pl/problems/DISUBSTR), [PLD](http://www.spoj.pl/problems/PLD/), [MSTRING](http://www.spoj.pl/problems/MSTRING/), [REPEATS](http://www.spoj.pl/problems/REPEATS), [JEWELS](http://www.spoj.pl/problems/JEWELS), [ARCHIVER](http://www.spoj.pl/problems/ARCHIVER), [PROPKEY](http://www.spoj.pl/problems/PROPKEY), [LITELANG](http://www.spoj.pl/problems/LITELANG), [EMOTICON](http://www.spoj.pl/problems/EMOTICON), [WORDS](http://www.spoj.pl/problems/WORDS), [AMCODES](http://www.spoj.pl/problems/AMCODES), [UCODES](http://www.spoj.pl/problems/UCODES), [PT07H](http://www.spoj.pl/problems/PT07H), [MINSEQ](http://www.spoj.pl/problems/MINSEQ), [TOPALIN](http://www.spoj.pl/problems/TOPALIN), [BWHEELER](http://www.spoj.pl/problems/BWHEELER), [BEADS](http://www.spoj.pl/problems/BEADS), [SARRAY](http://www.spoj.pl/problems/SARRAY), [LCS](http://www.spoj.pl/problems/LCS), [LCS2](http://www.spoj.pl/problems/LCS2), [SUBST1](http://www.spoj.pl/problems/SUBST1), [PHRASES](http://www.spoj.pl/problems/PHRASES), [PRETILE](http://www.spoj.pl/problems/PRETILE) on SPOJ
     - [http://www.algorithmist.com/index.php/Category:String\_algorithms](http://www.algorithmist.com/index.php/Category:String_algorithms)
 
 Till 11 may.
 
-1. **Basic Graphs [beginner]**.
-  1. Representation of graphs as adjacency list, adjacency matrix, incidence matrix and edge list and uses of different representations in different scenarios.
-  2. Breadth First Search.
+- [ ] 1. **Basic Graphs [beginner]**.
+  - [ ] 1. Representation of graphs as adjacency list, adjacency matrix, incidence matrix and edge list and uses of different representations in different scenarios.
+  - [ ] 2. Breadth First Search.
     - problems -
       1. [PPATH](http://www.spoj.pl/problems/PPATH), [ONEZERO](http://www.spoj.pl/problems/ONEZERO), [WATER](http://www.spoj.pl/problems/WATER) on SPOJ
-  3. Depth First Search.
-  4. Strongly Connected Components.
+  - [ ] 3. Depth First Search.
+  - [ ] 4. Strongly Connected Components.
     - problems -
       1. TOUR and [BOTTOM](http://www.spoj.pl/problems/BOTTOM) on SPOJ.
-  5. Biconnected Components, Finding articulation points and bridges].
+  - [ ] 5. Biconnected Components, Finding articulation points and bridges].
     - problems -
       1. [RELINETS](http://www.spoj.pl/problems/RELINETS), [PT07A](http://www.spoj.pl/problems/PT07A) on SPOJ.
-  6. Dijkstra algorithm -
+  - [ ] 6. Dijkstra algorithm -
     - problems -
       1. [SHPATH](http://www.spoj.pl/problems/SHPATH) on SPOJ.
-  7. Floyd Warshall algorithm -
+  - [ ] 7. Floyd Warshall algorithm -
     - problems -
       1. [COURIER](http://www.spoj.pl/problems/COURIER) on SPOJ.
-  8. Minimum Spanning Tree
+  - [ ] 8. Minimum Spanning Tree
     - problems -
       1. [BLINNET](http://www.spoj.pl/problems/BLINNET) on SPOJ.
-  9. Flood-fill algorithm
-  10. Topological sort
-  11. Bellman-Ford algorithm.
-  12. Euler Tour/Path.
+  - [ ] 9. Flood-fill algorithm
+  - [ ] 10. Topological sort
+  - [ ] 11. Bellman-Ford algorithm.
+  - [ ] 12. Euler Tour/Path.
     - problems - [WORDS1](http://www.spoj.pl/problems/WORDS1) on SPOJ.
-  13. Suggested reading for most of the topics in Graph algorithms -
+  - [ ] 13. Suggested reading for most of the topics in Graph algorithms -
     - [http://www.topcoder.com/tc?module=Static&amp;d1=tutorials&amp;d2=graphsDataStrucs1](http://www.topcoder.com/tc?module=Static&amp;d1=tutorials&amp;d2=graphsDataStrucs1).
     - Also refer to the tutorial for problems concerning these techniques.
     - Cormen chapter 22 to 24.
@@ -99,35 +99,35 @@ Till 13 may.(before coming iitk it should be done :))
 
 -------------------------------------------------------------------------------------------
 
-1. **Flow networks/ matching etc etc. [Intermediate/Advanced].**
-  1. Maximum flow using Ford Fulkerson Method.
+- [ ] 1. **Flow networks/ matching etc etc. [Intermediate/Advanced].**
+  - [ ] 1. Maximum flow using Ford Fulkerson Method.
 
     - Suggested Reading -
 
-1. [http://www.topcoder.com/tc?module=Static&amp;d1=tutorials&amp;d2=maxFlow](http://www.topcoder.com/tc?module=Static&amp;d1=tutorials&amp;d2=maxFlow)
+- [ ] 1. [http://www.topcoder.com/tc?module=Static&amp;d1=tutorials&amp;d2=maxFlow](http://www.topcoder.com/tc?module=Static&amp;d1=tutorials&amp;d2=maxFlow)
 - problems - [TAXI](http://www.spoj.pl/problems/TAXI), [POTHOLE](http://www.spoj.pl/problems/POTHOLE), [IM](http://www.spoj.pl/problems/IM), [QUEST4](http://www.spoj.pl/problems/QUEST4), [MUDDY](http://www.spoj.pl/problems/MUDDY), [EN](http://www.spoj.pl/problems/EN), [CABLETV](http://www.spoj.pl/problems/CABLETV), [STEAD](http://www.spoj.pl/problems/STEAD), [NETADMIN](http://www.spoj.pl/problems/NETADMIN), [COCONUTS](http://www.spoj.pl/problems/COCONUTS), [OPTM](http://www.spoj.pl/problems/OPTM) on SPOJ.
-- Maximum flow using Dinic&#39;s Algorithm.
+- [ ]  Maximum flow using Dinic&#39;s Algorithm.
 
-    - Problems - [PROFIT](http://www.spoj.pl/problems/PROFIT) on spoj.
+    - [ ]  Problems - [PROFIT](http://www.spoj.pl/problems/PROFIT) on spoj.
 
-  1. Minimum Cost Maximum Flow.
+  - [ ] 1. Minimum Cost Maximum Flow.
     - Successive Shortest path algorithm.
     - Cycle Cancelling algorithm.
     - Suggested Reading -
-      1. [http://www.topcoder.com/tc?module=Static&amp;d1=tutorials&amp;d2=minimumCostFlow1](http://www.topcoder.com/tc?module=Static&amp;d1=tutorials&amp;d2=minimumCostFlow1)
-  2. Maximum weighted Bipartite Matching (Kuhn Munkras algorithm/Hungarian Method)
+      - [ ] 1. [http://www.topcoder.com/tc?module=Static&amp;d1=tutorials&amp;d2=minimumCostFlow1](http://www.topcoder.com/tc?module=Static&amp;d1=tutorials&amp;d2=minimumCostFlow1)
+  - [ ] 2. Maximum weighted Bipartite Matching (Kuhn Munkras algorithm/Hungarian Method)
     - problems - [GREED](http://www.spoj.pl/problems/GREED), [SCITIES](http://www.spoj.pl/problems/SCITIES), [TOURS](http://www.spoj.pl/problems/TOURS) on SPOJ | [http://www.topcoder.com/stat?c=problem\_statement&amp;pm=8143](http://www.topcoder.com/stat?c=problem_statement&amp;pm=8143)
-  3. Stoer Wagner min-cut algorithm.
-  4. Hopcroft Karp bipartite matching algorithm.
+  - [ ] 3. Stoer Wagner min-cut algorithm.
+  - [ ] 4. Hopcroft Karp bipartite matching algorithm.
 
-    1. problems - [ANGELS](http://www.spoj.pl/problems/ANGELS) on SPOJ.
-  5. Maximum matching in general graph (blossom shrinking)
-  6. Gomory-Hu Trees.aa
-    - i) Problems - [MCQUERY](http://www.spoj.pl/problems/MCQUERY) on Spoj.
-  7. Chinese Postman Problem.
+    - [ ] 1. problems - [ANGELS](http://www.spoj.pl/problems/ANGELS) on SPOJ.
+  - [ ] 5. Maximum matching in general graph (blossom shrinking)
+  - [ ] 6. Gomory-Hu Trees.aa
+    - [ ]  i) Problems - [MCQUERY](http://www.spoj.pl/problems/MCQUERY) on Spoj.
+  - [ ] 7. Chinese Postman Problem.
     - problems - [http://acm.uva.es/archive/nuevoportal/data/problem.php?p=4039](http://acm.uva.es/archive/nuevoportal/data/problem.php?p=4039)
     - Suggested Reading - [http://eie507.eie.polyu.edu.hk/ss-submission/B7a/](http://eie507.eie.polyu.edu.hk/ss-submission/B7a/)
-  8. Suggested Reading for the full category -\&gt;
+  - [ ] 8. Suggested Reading for the full category -\&gt;
     - Network flow - Algorithms and Applications by Ahuja
     - Cormen book chapter 25.
 
