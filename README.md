@@ -1,6 +1,6 @@
 # Competitive-Programming
 
--**Basic Geometry/Euclidean Geometry/ordinate G- [ ] eometry/[3-D** variants **of every- [ ] thing].**
+-**Basic Geometry/Euclidean Geometry/ordinate Geometry/[3-D variants of everything].**
 
 - [ ] 1. **Computational Geometry.**
 
